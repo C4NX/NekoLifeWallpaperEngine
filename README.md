@@ -1,6 +1,6 @@
-# My WallpaperEngine repository 💻
-
 ![Logo](logo.png)
+
+# My WallpaperEngine repository 💻
 
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
